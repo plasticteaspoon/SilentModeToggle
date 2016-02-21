@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Silent Mode Toggle</string>
     <string name="action_settings">Settings</string>
+    <string name="Welcome_message">Yay this is jessica and i\'m trapped in a phone apparently</string>
+    <string name="toggle_silent_mode">Jessica\'s silent mode toggle</string>
 </resources>
