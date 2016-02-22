@@ -58,7 +58,7 @@ public class AppWidgetService extends IntentService {
 
         PendingIntent pendingIntent = PendingIntent.getService(this, 0, intent, PendingIntent.FLAG_ONE_SHOT);
 
-        remoteViews.setOnClickPendingIntent(R.id.widget, pendingIntent);
+        remoteViews.setOnClickPendingIntent(R.id.phone_state, pendingIntent);
 
         return remoteViews;
     }
